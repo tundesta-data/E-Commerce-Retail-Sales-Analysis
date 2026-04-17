@@ -29,7 +29,7 @@ Sample Preview
 | OrderID | OrderDate | Region | Category | Subcategory | CustomerSegment | Sales | Quantity | Discount | Profit |
 |---------|-----------|--------|----------|-------------|-----------------|-------|----------|----------|--------|
 | ORD100000 | 2021-05-02 | East | Office Supplies | Blinders | Home Office | 383.2 | 8 | 0.2 | -0.3 |
-| ORD100001 | 2023-02-09 | West | Office Supplies | Art Supplies | Coeprate | 1735.03 | 4 | 0.1 | -77.82 |
+| ORD100001 | 2023-02-09 | West | Office Supplies | Art Supplies | Corporate | 1735.03 | 4 | 0.1 | -77.82 |
 
 ### Data Cleaning
 - Removed missing or invalid values
