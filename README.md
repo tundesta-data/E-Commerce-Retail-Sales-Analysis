@@ -1,5 +1,5 @@
 # E-Commerce Retail Sales Analysis | Revenue, Trends, and Insights
-Excel + SQL + Power BI Project | E-Commerce Retail Sales Datat | From Raw Data to Buniness Insights
+Excel + SQL + Power BI Project | E-Commerce Retail Sales Data | From Raw Data to Buniness Insights
 
 ## Table Of Contents
 * [Project Overview](#project-overview)
